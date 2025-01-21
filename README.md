@@ -1,5 +1,9 @@
 # FlappyBird
 
+## This is a game copied from FlappyBird by Nguyen Ha Dong
+
+## I remade it using LibGDX with the knowledge I just learned
+
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
 This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
