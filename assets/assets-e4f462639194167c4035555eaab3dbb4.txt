@@ -1,0 +1,8 @@
+skin-flappy-bird/skin.atlas
+skin-flappy-bird/skin.json
+skin-flappy-bird/skin.png
+sounds/sfx_die.wav
+sounds/sfx_hit.wav
+sounds/sfx_point.wav
+sounds/sfx_swooshing.wav
+sounds/sfx_wing.wav
